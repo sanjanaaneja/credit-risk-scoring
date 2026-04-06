@@ -1,0 +1,7 @@
+Metric,Value
+Total Applications,5000
+Default Rate,4.6%
+Best Model,Logistic Regression
+AUC-ROC,0.6440
+F1 Score,0.1474
+High-Risk Exposure (EUR M),330M

@@ -174,4 +174,3 @@ credit-risk-scoring/
 
 ---
 
-<sub>Built by Sanjana</sub>
